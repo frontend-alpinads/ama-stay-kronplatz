@@ -1,7 +1,7 @@
 export const hotelConfig = {
-  hotelName: "{{HOTEL_NAME}}",
-  email: "{{EMAIL}}",
-  address: "{{ADDRESS}}",
-  phoneNumber: "{{PHONE_NUMBER}}",
-  websiteUrl: "{{WEBSITE_URL}}",
+  hotelName: "AMA Stay Kronplatz",
+  email: "",
+  address: "",
+  phoneNumber: "+39-0474-431-480",
+  websiteUrl: "https://ama-stay.com/",
 };
